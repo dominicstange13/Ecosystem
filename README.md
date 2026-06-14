@@ -1,5 +1,5 @@
 # Easy Ecosystem
-## A small ecosystem coded in Python that demonstrates basic pathfindng and logic algorithms.
+## A small ecosystem coded in Python that demonstrates basic pathfinding and logic algorithms.
 
 <img width="720" height="362" alt="easyecosysteminaction" src="https://github.com/user-attachments/assets/f61eeffa-8964-4d01-8aa2-b91d52fbfcdb" />
 
