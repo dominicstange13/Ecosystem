@@ -3,7 +3,7 @@
 
 <img width="720" height="362" alt="easyecosysteminaction" src="https://github.com/user-attachments/assets/f61eeffa-8964-4d01-8aa2-b91d52fbfcdb" />
 
-To try it out for yourself, you can download it [here](https://drive.google.com/uc?export=download&id=1aofWN1m4l8vnebXxzBYNnAFTSRAA3-PM), then simply extract and run the exe.
+To try it out for yourself, you can download the latest release of the project.
 
 ## Features:
 - An herbivorous creature that requires plants and water to survive.
